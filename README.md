@@ -1,2 +1,2 @@
 # Xamarin.FaceRecognition
-Doing Face recognition using Xamarin.Android
+Face recognition using Xamarin.Android
